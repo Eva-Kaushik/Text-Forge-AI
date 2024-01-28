@@ -28,7 +28,8 @@ Ideal for businesses and developers seeking automated, domain-specific informati
 
 3. **Run the Script:**
    ```bash
-   python script.py
+   jupyter nbconvert --to notebook --execute TextForgeAI.ipynb --output TextForgeAI.ipynb
+
 
 
 Web Scraping
