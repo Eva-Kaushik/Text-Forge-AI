@@ -37,7 +37,7 @@ The script employs web scraping techniques to collect textual content from a spe
 OpenAI Integration
 Upon extracting and processing the text, the script leverages OpenAI GPT-3.5 Turbo to generate concise summaries and provide answers to questions based on the scraped content. Dedicated functions are included for creating context and responding to questions using the OpenAI API.
 
-Result
+## Result
 The output of the script includes:
 
 Raw scraped data stored in CSV format (processed/scraped.csv).
