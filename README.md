@@ -44,6 +44,6 @@ Raw scraped data stored in CSV format (processed/scraped.csv).
 Processed text embeddings stored in CSV format (processed/embeddings.csv).
 Feel free to tailor the script to suit your specific requirements and use cases.
 
-Acknowledgments
+## Acknowledgments
 This project is made possible by the capabilities provided by OpenAI. Special thanks to the contributors and maintainers of the libraries used in this project.
 
